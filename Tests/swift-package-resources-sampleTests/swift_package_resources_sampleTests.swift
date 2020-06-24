@@ -7,6 +7,7 @@ final class swift_package_resources_sampleTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
         XCTAssertEqual(swift_package_resources_sample().text, "Hello, World!")
+		XCTAssertNotNil(swift_package_resources_sample().image)
     }
 
     static var allTests = [

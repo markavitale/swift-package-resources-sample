@@ -1,3 +1,3 @@
 # swift-package-resources-sample
 
-A description of this package.
+A sample SPM package that uses resources
